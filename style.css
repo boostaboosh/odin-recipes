@@ -1,0 +1,55 @@
+/*
+li{
+    color: #008800;
+}
+*/
+
+h1,
+ul{
+    text-align: center;
+}
+
+h1{
+    color: hsl(163, 50%, 50%);
+    background-color: #2255cc44;
+    font-size:500%;
+}
+
+ul{
+    list-style-position: inside;
+    color:#ff0088;
+    background-color: #88008844;
+    font-size: 300%;
+}
+
+a{
+    color:#ff0000;
+}
+
+#ramsay-gif{
+    width: 50%;
+    margin-left:auto;
+    margin-right: auto;
+    display:block;
+    height: auto;
+}
+
+.recipe-name{
+
+}
+
+.dish-image{
+
+}
+
+.description{
+
+}
+
+.ingredients{
+
+}
+
+.steps{
+
+}
