@@ -23,7 +23,7 @@ ul{
 }
 
 a{
-    color:#ff0000;
+    color:#0055dd;
 }
 
 #ramsay-gif{
@@ -35,14 +35,17 @@ a{
 }
 
 .recipe-name{
-
+    font-size: 300%;
+    font-family: ;
 }
 
 .dish-image{
-
+    
 }
 
 .description{
+    color:rgb(10,233,2);
+    background-color:#88004444;
 
 }
 
